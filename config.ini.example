@@ -1,0 +1,5 @@
+[OpenAI]
+API_KEY=your_openai_api_key
+
+[Directories]
+SOURCE_DIRECTORY=/path/to/your/images
